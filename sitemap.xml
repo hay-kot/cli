@@ -96,12 +96,77 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cli.urfave.org/v2/</loc>
+         <loc>https://cli.urfave.org/v2/getting-started/</loc>
          <lastmod>2022-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://cli.urfave.org/v2/manual/</loc>
+         <loc>https://cli.urfave.org/v2/migrating-from-older-releases/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/arguments/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/bash-completions/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/combining-short-options/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/exit-codes/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/flags/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/full-api-example/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/generated-help-text/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/greet/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/subcommands-categories/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/subcommands/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/suggestions/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/timestamp-flag/</loc>
+         <lastmod>2022-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cli.urfave.org/v2/examples/version-flag/</loc>
          <lastmod>2022-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
